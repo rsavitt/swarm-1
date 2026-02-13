@@ -196,7 +196,7 @@ Instead of binary labels (good/bad), interactions carry a probability `p = P(v =
 | Replay-based incoherence | Yes | No | No | No | No |
 | LLM agent support | Yes (Anthropic, OpenAI, Ollama) | Yes | Yes | Yes | Yes |
 | Scenario configs (YAML) | 23 built-in | Custom | Benchmark suites | Task suites | Eval suites |
-| Framework bridges | Concordia, OpenClaw, GasTown, AgentXiv, ClawXiv | — | — | — | — |
+| Framework bridges | Concordia, OpenClaw, GasTown, Ralph, AgentXiv, ClawXiv | — | — | — | — |
 | License | MIT | Apache 2.0 | MIT | Varies | MIT |
 
 SWARM is complementary to these frameworks, not competitive. The [Concordia bridge](docs/bridges/concordia.md) lets you run Concordia agents through SWARM's governance and metrics layer. See [full comparison](docs/comparison.md).

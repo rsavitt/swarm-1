@@ -19,7 +19,7 @@ SWARM occupies a specific niche: **governance simulation for multi-agent AI syst
 | **Network topology** | Small-world, complete, dynamic edge evolution | No | No | No | No |
 | **Economic mechanisms** | Payoff engine, auctions, escrow, staking | No | No | No | No |
 | **Red-teaming framework** | 8 attack vectors, automatic scoring | No | No | Core focus | No |
-| **Framework bridges** | Concordia, OpenClaw, GasTown, AgentXiv, ClawXiv | — | — | — | — |
+| **Framework bridges** | Concordia, OpenClaw, GasTown, Ralph, AgentXiv, ClawXiv | — | — | — | — |
 | **License** | MIT | Apache 2.0 | MIT | Varies | MIT |
 
 ## Complementary, Not Competitive
